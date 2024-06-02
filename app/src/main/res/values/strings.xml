@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">URSkin</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+
+    //signup
+    <string name="name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="invalid">Invalid email</string>
+    <string name="password">Password</string>
+    <string name="cpassword">Confirm Password</string>
+    <string name="regist">Signup your account here</string>
+
+    //login
+    <string name="signin">Login and know your skin</string>
+    
+    //main
+    <string name="letus">Let us know your skin</string>
+    <string name="concern">concerns</string>
+    <string name="check">Check your skin</string>
+
+    //article
+    <string name="article">Article</string>
+
+
+</resources>
